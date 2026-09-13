@@ -1,0 +1,6 @@
+{
+  "application.bin": "68f4a20b04c64cf81b1c67d0d38be473182767efd308d916d88ece15caab192b",
+  "bootloader.bin": "b2c0a1b9ef799d2391de3f83e2706e3e6ecc6c05f718227578d4c117024beaa5",
+  "partition-table.bin": "2bd299223ebb9dddcc1b959e0a8b7a62a49f33928da7f2d38621b52010b857f9",
+  "rlyoulink-xiaos3-d2-3.0.0.amphipkg": "daa0cf281aabf0dba49b98f0504915c2512e5594dc8f6ffae0e43c5e9818737b"
+}
